@@ -1,0 +1,346 @@
+INFO:[IN][Event]Order S White
+INFO:[IN][To System]New order: S White
+INFO:[IN][Event]Order SES White
+INFO:[IN][To System]New order: SES White
+INFO:[IN][Event]Picker Alice ready
+INFO:[IN][Barcode Reader][To System]Picker Alice is Ready.
+INFO:[IN][Event]Order SE Beige
+INFO:[IN][To System]New order: SE Beige
+INFO:[IN][Event]Order SE Black
+INFO:[IN][To System]New order: SE Black
+FINE:Pick Sku 1 at A 0 0 0
+INFO:[IN][Event]Sequencer Sue ready
+INFO:[IN][Barcode Reader][To System]Sequencer Sue is Ready.
+INFO:[IN][Event]Picker Alice pick 1
+INFO:[IN][Barcode Reader][To System]Picker Alice scans 1
+FINE:Picks correct. Pick SKU 2 at location A 0 0 1
+INFO:[IN][Event]Picker Alice pick 2
+INFO:[IN][Barcode Reader][To System]Picker Alice scans 2
+FINE:Picks correct. Pick SKU 5 at location A 0 1 0
+INFO:[IN][Event]Picker Alice pick 5
+INFO:[IN][Barcode Reader][To System]Picker Alice scans 5
+FINE:Picks correct. Pick SKU 6 at location A 0 1 1
+INFO:[IN][Event]Picker Alice pick 6
+INFO:[IN][Barcode Reader][To System]Picker Alice scans 6
+FINE:Picks correct. Pick SKU 11 at location A 0 2 2
+INFO:[IN][Event]Replenisher Paul ready
+INFO:[IN][Barcode Reader][To System]Replenisher Paul is Ready.
+INFO:[IN][Event]Picker Alice pick 11
+INFO:[IN][Barcode Reader][To System]Picker Alice scans 11
+FINE:Picks correct. Pick SKU 12 at location A 0 2 3
+INFO:[IN][Event]Picker Alice pick 13
+INFO:[IN][Barcode Reader][To System]Picker Alice scans 13
+SEVERE:Picks wrong, put back! Pick SKU 12 at location A 0 2 3
+INFO:[IN][Event]Picker Alice pick 12
+INFO:[IN][Barcode Reader][To System]Picker Alice scans 12
+FINE:Picks correct. Pick SKU 43 at location B 1 1 2
+INFO:[IN][Event]Picker Alice pick 43
+INFO:[IN][Barcode Reader][To System]Picker Alice scans 43
+FINE:Picks correct. Pick SKU 44 at location B 1 1 3
+INFO:[IN][Event]Picker Alice pick 44
+INFO:[IN][Barcode Reader][To System]Picker Alice scans 44
+FINE:All correct. Send to marshaling.
+INFO:[IN][Event]Replenisher Paul scan 2
+INFO:[IN][Barcode Reader][To System]Replenisher Paul scans 2
+SEVERE:Not correct.
+INFO:[IN][Event]Replenisher Paul scan 1
+INFO:[IN][Barcode Reader][To System]Replenisher Paul scans 1
+FINE:Correct, ready to replenish
+INFO:[IN][Event]Replenisher Paul replenish A 0 0 0
+INFO:[IN][Barcode Reader][To System]Replenisher Paul replenished A 0 0 0
+INFO:[IN][Event]Picker Alice to Marshaling
+INFO:[IN][Barcode Reader][To System]Picker Alice send to Marshaling.
+FINE:Picker Alice sent to marshaling.
+INFO:[IN][Event]Sequencer Sue scan 1
+INFO:[IN][Barcode Reader][To System]Sequencer Sue scans 1
+INFO:[IN][Event]Sequencer Sue scan 5
+INFO:[IN][Barcode Reader][To System]Sequencer Sue scans 5
+INFO:[IN][Event]Sequencer Sue scan 11
+INFO:[IN][Barcode Reader][To System]Sequencer Sue scans 11
+INFO:[IN][Event]Order SES Green
+INFO:[IN][To System]New order: SES Green
+INFO:[IN][Event]Order SE White
+INFO:[IN][To System]New order: SE White
+INFO:[IN][Event]Sequencer Sue scan 43
+INFO:[IN][Barcode Reader][To System]Sequencer Sue scans 43
+INFO:[IN][Event]Sequencer Sue scan 2
+INFO:[IN][Barcode Reader][To System]Sequencer Sue scans 2
+INFO:[IN][Event]Sequencer Sue rescan
+INFO:[IN][Barcode Reader][To System]Sequencer Sue rescans.
+INFO:[IN][Event]Sequencer Sue scan 1
+INFO:[IN][Barcode Reader][To System]Sequencer Sue scans 1
+INFO:[IN][Event]Sequencer Sue scan 5
+INFO:[IN][Barcode Reader][To System]Sequencer Sue scans 5
+INFO:[IN][Event]Sequencer Sue scan 11
+INFO:[IN][Barcode Reader][To System]Sequencer Sue scans 11
+INFO:[IN][Event]Picker Bob ready
+INFO:[IN][Barcode Reader][To System]Picker Bob is Ready.
+INFO:[IN][Event]Sequencer Sue scan 43
+INFO:[IN][Barcode Reader][To System]Sequencer Sue scans 43
+INFO:[IN][Event]Sequencer Sue scan 2
+INFO:[IN][Barcode Reader][To System]Sequencer Sue scans 2
+INFO:[IN][Event]Order SE Blue
+INFO:[IN][To System]New order: SE Blue
+INFO:[IN][Event]Sequencer Sue scan 8
+INFO:[IN][Barcode Reader][To System]Sequencer Sue scans 8
+INFO:[IN][Event]Sequencer Sue retrieve
+INFO:[IN][Barcode Reader][To System]Sequencer Sue retrieves.
+FINE:Pick Sku 1 at A 0 0 0
+INFO:[IN][Event]Picker Bob pick 1
+INFO:[IN][Barcode Reader][To System]Picker Bob scans 1
+FINE:Picks correct. Pick SKU 2 at location A 0 0 1
+INFO:[IN][Event]Picker Bob pick 2
+INFO:[IN][Barcode Reader][To System]Picker Bob scans 2
+FINE:Picks correct. Pick SKU 5 at location A 0 1 0
+INFO:[IN][Event]Picker Bob pick 5
+INFO:[IN][Barcode Reader][To System]Picker Bob scans 5
+FINE:Picks correct. Pick SKU 6 at location A 0 1 1
+INFO:[IN][Event]Picker Bob pick 6
+INFO:[IN][Barcode Reader][To System]Picker Bob scans 6
+FINE:Picks correct. Pick SKU 11 at location A 0 2 2
+INFO:[IN][Event]Picker Bob pick 11
+INFO:[IN][Barcode Reader][To System]Picker Bob scans 11
+FINE:Picks correct. Pick SKU 12 at location A 0 2 3
+INFO:[IN][Event]Order SE Black
+INFO:[IN][To System]New order: SE Black
+INFO:[IN][Event]Picker Ryan ready
+INFO:[IN][Barcode Reader][To System]Picker Ryan is Ready.
+FINE:Pick Sku 3 at A 0 0 2
+INFO:[IN][Event]Picker Ryan pick 3
+INFO:[IN][Barcode Reader][To System]Picker Ryan scans 3
+FINE:Picks correct. Pick SKU 4 at location A 0 0 3
+INFO:[IN][Event]Picker Ryan pick 4
+INFO:[IN][Barcode Reader][To System]Picker Ryan scans 4
+FINE:Picks correct. Pick SKU 29 at location B 0 1 0
+INFO:[IN][Event]Picker Ryan pick 29
+INFO:[IN][Barcode Reader][To System]Picker Ryan scans 29
+FINE:Picks correct. Pick SKU 30 at location B 0 1 1
+INFO:[IN][Event]Picker Ryan pick 30
+INFO:[IN][Barcode Reader][To System]Picker Ryan scans 30
+FINE:Picks correct. Pick SKU 35 at location B 0 2 2
+INFO:[IN][Event]Picker Ryan pick 35
+INFO:[IN][Barcode Reader][To System]Picker Ryan scans 35
+FINE:Picks correct. Pick SKU 36 at location B 0 2 3
+INFO:[IN][Event]Picker Ryan pick 36
+INFO:[IN][Barcode Reader][To System]Picker Ryan scans 36
+FINE:Picks correct. Pick SKU 43 at location B 1 1 2
+INFO:[IN][Event]Picker Ryan pick 43
+INFO:[IN][Barcode Reader][To System]Picker Ryan scans 43
+FINE:Picks correct. Pick SKU 44 at location B 1 1 3
+INFO:[IN][Event]Picker Ryan pick 44
+INFO:[IN][Barcode Reader][To System]Picker Ryan scans 44
+FINE:All correct. Send to marshaling.
+INFO:[IN][Event]Picker Ryan to marshaling
+INFO:[IN][Barcode Reader][To System]Picker Ryan send to Marshaling.
+FINE:Picker Ryan sent to marshaling.
+INFO:[IN][Event]Sequencer Zoe ready
+INFO:[IN][Barcode Reader][To System]Sequencer Zoe is Ready.
+INFO:[IN][Event]Sequencer Zoe scan 29
+INFO:[IN][Barcode Reader][To System]Sequencer Zoe scans 29
+INFO:[IN][Event]Sequencer Zoe scan 3
+INFO:[IN][Barcode Reader][To System]Sequencer Zoe scans 3
+INFO:[IN][Event]Sequencer Zoe scan 35
+INFO:[IN][Barcode Reader][To System]Sequencer Zoe scans 35
+INFO:[IN][Event]Sequencer Zoe scan 43
+INFO:[IN][Barcode Reader][To System]Sequencer Zoe scans 43
+INFO:[IN][Event]Sequencer Zoe scan 30
+INFO:[IN][Barcode Reader][To System]Sequencer Zoe scans 30
+INFO:[IN][Event]Sequencer Zoe scan 4
+INFO:[IN][Barcode Reader][To System]Sequencer Zoe scans 4
+INFO:[IN][Event]Sequencer Zoe scan 36
+INFO:[IN][Barcode Reader][To System]Sequencer Zoe scans 36
+INFO:[IN][Event]Sequencer Zoe scan 44
+INFO:[IN][Barcode Reader][To System]Sequencer Zoe scans 44
+INFO:[IN][Event]Sequencer Zoe send to loader
+INFO:[IN][Barcode Reader][To System]Sequencer Zoe send to loader.
+INFO:[IN][Event]Replenisher Jane ready
+INFO:[IN][Barcode Reader][To System]Replenisher Jane is Ready.
+INFO:[IN][Event]Replenisher Jane scan 6
+INFO:[IN][Barcode Reader][To System]Replenisher Jane scans 6
+FINE:Correct, ready to replenish
+INFO:[IN][Event]Replenisher Jane replenish A 0 1 1
+INFO:[IN][Barcode Reader][To System]Replenisher Jane replenished A 0 1 1
+INFO:[IN][Event]Picker Bob pick 12
+INFO:[IN][Barcode Reader][To System]Picker Bob scans 12
+FINE:Picks correct. Pick SKU 43 at location B 1 1 2
+INFO:[IN][Event]Picker Bob pick 43
+INFO:[IN][Barcode Reader][To System]Picker Bob scans 43
+FINE:Picks correct. Pick SKU 44 at location B 1 1 3
+INFO:[IN][Event]Replenisher Joe ready
+INFO:[IN][Barcode Reader][To System]Replenisher Joe is Ready.
+INFO:[IN][Event]Picker Bob pick 44
+INFO:[IN][Barcode Reader][To System]Picker Bob scans 44
+FINE:All correct. Send to marshaling.
+INFO:[IN][Event]Picker Bob to marshaling
+INFO:[IN][Barcode Reader][To System]Picker Bob send to Marshaling.
+FINE:Picker Bob sent to marshaling.
+INFO:[IN][Event]Sequencer Sara ready
+INFO:[IN][Barcode Reader][To System]Sequencer Sara is Ready.
+INFO:[IN][Event]Loader Janet ready
+INFO:[IN][Barcode Reader][To System]Loader Janet is Ready.
+INFO:[IN][Event]Sequencer Sara scan 1
+INFO:[IN][Barcode Reader][To System]Sequencer Sara scans 1
+INFO:[IN][Event]Sequencer Sara scan 5
+INFO:[IN][Barcode Reader][To System]Sequencer Sara scans 5
+INFO:[IN][Event]Sequencer Sara scan 11
+INFO:[IN][Barcode Reader][To System]Sequencer Sara scans 11
+INFO:[IN][Event]Sequencer Sara scan 43
+INFO:[IN][Barcode Reader][To System]Sequencer Sara scans 43
+INFO:[IN][Event]Sequencer Sara scan 2
+INFO:[IN][Barcode Reader][To System]Sequencer Sara scans 2
+INFO:[IN][Event]Sequencer Sara scan 6
+INFO:[IN][Barcode Reader][To System]Sequencer Sara scans 6
+INFO:[IN][Event]Sequencer Sara scan 12
+INFO:[IN][Barcode Reader][To System]Sequencer Sara scans 12
+INFO:[IN][Event]Sequencer Sara scan 44
+INFO:[IN][Barcode Reader][To System]Sequencer Sara scans 44
+INFO:[IN][Event]Sequencer Sara send to loader
+INFO:[IN][Barcode Reader][To System]Sequencer Sara send to loader.
+INFO:[IN][Event]Loader Janet scan 29
+INFO:[IN][Barcode Reader][To System]Loader Janet scans 29
+FINE:This item is correct
+INFO:[IN][Event]Loader Janet scan 3
+INFO:[IN][Barcode Reader][To System]Loader Janet scans 3
+FINE:This item is correct
+INFO:[IN][Event]Loader Janet scan 35
+INFO:[IN][Barcode Reader][To System]Loader Janet scans 35
+FINE:This item is correct
+INFO:[IN][Event]Loader Janet scan 43
+INFO:[IN][Barcode Reader][To System]Loader Janet scans 43
+FINE:This item is correct
+INFO:[IN][Event]Loader Janet scan 30
+INFO:[IN][Barcode Reader][To System]Loader Janet scans 30
+FINE:This item is correct
+INFO:[IN][Event]Loader Janet scan 4
+INFO:[IN][Barcode Reader][To System]Loader Janet scans 4
+FINE:This item is correct
+INFO:[IN][Event]Loader Janet scan 36
+INFO:[IN][Barcode Reader][To System]Loader Janet scans 36
+FINE:This item is correct
+INFO:[IN][Event]Loader Janet scan 44
+INFO:[IN][Barcode Reader][To System]Loader Janet scans 44
+FINE:This item is correct
+INFO:Send this to pending
+INFO:[IN][Event]Loader Janet send to pending
+INFO:[IN][Barcode Reader][To System]Loader Janet send to pending.
+INFO:[IN][Event]Loader Kevin ready
+INFO:[IN][Barcode Reader][To System]Loader Kevin is Ready.
+INFO:[IN][Event]Loader Kevin scan 1
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 1
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 5
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 5
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 11
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 11
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 43
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 43
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin rescan
+INFO:[IN][Barcode Reader][To System]Loader Kevin rescans.
+INFO:[IN][Event]Loader Kevin scan 1
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 1
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 5
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 5
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 11
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 11
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 43
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 43
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 2
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 2
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 10
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 10
+SEVERE:The item 6 is incorrect!
+INFO:[IN][Event]Loader Kevin retrieve
+INFO:[IN][Barcode Reader][To System]Loader Kevin retrieves.
+INFO:[IN][Event]Picker Shawn ready
+INFO:[IN][Barcode Reader][To System]Picker Shawn is Ready.
+FINE:Pick Sku 1 at A 0 0 0
+INFO:[IN][Event]Picker Shawn pick 1
+INFO:[IN][Barcode Reader][To System]Picker Shawn scans 1
+FINE:Picks correct. Pick SKU 2 at location A 0 0 1
+INFO:[IN][Event]Picker Shawn pick 2
+INFO:[IN][Barcode Reader][To System]Picker Shawn scans 2
+FINE:Picks correct. Pick SKU 5 at location A 0 1 0
+INFO:[IN][Event]Picker Shawn pick 5
+INFO:[IN][Barcode Reader][To System]Picker Shawn scans 5
+FINE:Picks correct. Pick SKU 6 at location A 0 1 1
+INFO:[IN][Event]Picker Shawn pick 6
+INFO:[IN][Barcode Reader][To System]Picker Shawn scans 6
+FINE:Picks correct. Pick SKU 11 at location A 0 2 2
+INFO:[IN][Event]Picker Shawn pick 11
+INFO:[IN][Barcode Reader][To System]Picker Shawn scans 11
+FINE:Picks correct. Pick SKU 12 at location A 0 2 3
+INFO:[IN][Event]Picker Shawn pick 12
+INFO:[IN][Barcode Reader][To System]Picker Shawn scans 12
+FINE:Picks correct. Pick SKU 43 at location B 1 1 2
+INFO:[IN][Event]Picker Shawn pick 43
+INFO:[IN][Barcode Reader][To System]Picker Shawn scans 43
+FINE:Picks correct. Pick SKU 44 at location B 1 1 3
+INFO:[IN][Event]Picker Shawn pick 44
+INFO:[IN][Barcode Reader][To System]Picker Shawn scans 44
+FINE:All correct. Send to marshaling.
+INFO:[IN][Event]Picker Shawn to marshaling
+INFO:[IN][Barcode Reader][To System]Picker Shawn send to Marshaling.
+FINE:Picker Shawn sent to marshaling.
+INFO:[IN][Event]Sequencer Ruby ready
+INFO:[IN][Barcode Reader][To System]Sequencer Ruby is Ready.
+INFO:[IN][Event]Sequencer Ruby scan 1
+INFO:[IN][Barcode Reader][To System]Sequencer Ruby scans 1
+INFO:[IN][Event]Sequencer Ruby scan 5
+INFO:[IN][Barcode Reader][To System]Sequencer Ruby scans 5
+INFO:[IN][Event]Sequencer Ruby scan 11
+INFO:[IN][Barcode Reader][To System]Sequencer Ruby scans 11
+INFO:[IN][Event]Sequencer Ruby scan 43
+INFO:[IN][Barcode Reader][To System]Sequencer Ruby scans 43
+INFO:[IN][Event]Sequencer Ruby scan 2
+INFO:[IN][Barcode Reader][To System]Sequencer Ruby scans 2
+INFO:[IN][Event]Sequencer Ruby scan 6
+INFO:[IN][Barcode Reader][To System]Sequencer Ruby scans 6
+INFO:[IN][Event]Sequencer Ruby scan 12
+INFO:[IN][Barcode Reader][To System]Sequencer Ruby scans 12
+INFO:[IN][Event]Sequencer Ruby scan 44
+INFO:[IN][Barcode Reader][To System]Sequencer Ruby scans 44
+INFO:[IN][Event]Sequencer Ruby send to loader
+INFO:[IN][Barcode Reader][To System]Sequencer Ruby send to loader.
+INFO:[IN][Event]Loader Kevin ready
+INFO:[IN][Barcode Reader][To System]Loader Kevin is Ready.
+INFO:[IN][Event]Loader Kevin scan 1
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 1
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 5
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 5
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 11
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 11
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 43
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 43
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 2
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 2
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 6
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 6
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 12
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 12
+FINE:This item is correct
+INFO:[IN][Event]Loader Kevin scan 44
+INFO:[IN][Barcode Reader][To System]Loader Kevin scans 44
+FINE:This item is correct
+INFO:Load this on truck
+INFO:[IN][Event]Loader Kevin load picking request 1 
+INFO:[IN][Barcode Reader][To System]Loader Kevin loads.
+INFO:[IN][Event]Loader Kelly ready
+INFO:[IN][Barcode Reader][To System]Loader Kelly is Ready.
+INFO:Load picking request with ID 2 onto truck.
+INFO:[IN][Event]Loader Kelly load picking request 2 
+INFO:[IN][Barcode Reader][To System]Loader Kelly loads.
+INFO:Events completed. System turned off.

@@ -1,0 +1,65 @@
+Order S White
+Order SES White
+Order SE Beige
+Order SE Beige
+Picker Alice ready
+Order S Red
+Order SES Green
+Order SE White
+Picker Alice pick 1
+Order SE Blue
+Picker Alice pick 2
+Picker Alice pick 5
+Order SE Black
+Order S Green
+Order SES Blue
+Order S White
+Picker Bob ready
+Picker Alice pick 6
+Picker Bob pick 17
+Picker Alice pick 11
+Picker Bob pick 18
+Order SES Green
+Picker Bob pick 29
+Picker Alice pick 11
+Picker Bob pick 30
+Picker Bob pick 3
+Picker Alice pick 12
+Order SE Blue
+Picker Alice pick 12
+Order S Green
+Picker Alice to Marshaling
+Picker Bob pick 4
+Picker Bob pick 35
+Picker Alice ready
+Picker Alice pick 43
+Sequencer Sue sequences
+Picker Alice pick 44
+Loader Bill loads
+Order S Green
+Picker Bob pick 36
+Picker Alice pick 25
+Picker Bob to Marshaling
+Picker Alice pick 26
+Picker Bob ready
+Picker Alice pick 37
+Picker Bob pick 29
+Picker Bob pick 30
+Picker Alice pick 38
+Picker Bob pick 35
+Sequencer Sue sequences
+Picker Bob pick 36
+Picker Alice pick 1
+Loader Bill loads
+Picker Alice pick 2
+Picker Bob pick 25
+Picker Alice to Marshaling
+Picker Bob pick 26
+Sequencer Sue sequences
+Picker Bob pick 25
+Replenisher Ruby replenish A 0 0 0
+Picker Bob pick 26
+Loader Bill loads
+Picker Bob to Marshaling
+Sequencer Sue sequences
+Loader Bill loads

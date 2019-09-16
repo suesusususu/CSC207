@@ -1,0 +1,38 @@
+Order S White
+Order SES White
+Picker Alice ready
+Order SE Beige
+Order SE Beige
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 5
+Picker Alice pick 6
+Picker Alice pick 11
+Picker Alice pick 13
+Picker Alice pick 11
+Picker Alice pick 12
+Picker Alice pick 12
+Picker Alice to Marshaling
+Sequencer Sue ready
+Sequencer Sue scan 1
+Sequencer Sue scan 5
+Sequencer Sue scan 11
+Sequencer Sue scan 11
+Sequencer Sue scan 2
+Sequencer Sue scan 6
+Sequencer Sue scan 12
+Sequencer Sue scan 12
+Sequencer Sue send to loader
+Loader Bob ready
+Loader Bob scan 1
+Loader Bob scan 5
+Loader Bob scan 11
+Loader Bob scan 11
+Loader Bob scan 2
+Loader Bob scan 6
+Loader Bob scan 12
+Loader Bob scan 12
+Loader Bob load picking request 1
+Replenisher Jenny ready
+Replenisher Jenny scan 1
+Replenisher Jenny replenish A 0 0 0

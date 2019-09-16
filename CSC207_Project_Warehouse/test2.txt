@@ -1,0 +1,136 @@
+Order S White
+Order SES White
+Picker Alice ready
+Order SE Beige
+Order SE Black
+Sequencer Sue ready
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 5
+Picker Alice pick 6
+Replenisher Paul ready
+Picker Alice pick 11
+Picker Alice pick 13
+Picker Alice pick 12
+Picker Alice pick 43
+Picker Alice pick 44
+Replenisher Paul scan 2
+Replenisher Paul scan 1
+Replenisher Paul replenish A 0 0 0
+Picker Alice to Marshaling
+Sequencer Sue scan 1
+Sequencer Sue scan 5
+Sequencer Sue scan 11
+Order SES Green
+Order SE White
+Sequencer Sue scan 43
+Sequencer Sue scan 2
+Sequencer Sue rescan
+Sequencer Sue scan 1
+Sequencer Sue scan 5
+Sequencer Sue scan 11
+Picker Bob ready
+Sequencer Sue scan 43
+Sequencer Sue scan 2
+Order SE Blue
+Sequencer Sue scan 8
+Sequencer Sue retrieve
+Picker Bob pick 1
+Picker Bob pick 2
+Picker Bob pick 5
+Picker Bob pick 6
+Picker Bob pick 11
+Order SE Black
+Picker Ryan ready
+Picker Ryan pick 3
+Picker Ryan pick 4
+Picker Ryan pick 29
+Picker Ryan pick 30
+Picker Ryan pick 35
+Picker Ryan pick 36
+Picker Ryan pick 43
+Picker Ryan pick 44
+Picker Ryan to marshaling
+Sequencer Zoe ready
+Sequencer Zoe scan 29
+Sequencer Zoe scan 3
+Sequencer Zoe scan 35
+Sequencer Zoe scan 43
+Sequencer Zoe scan 30
+Sequencer Zoe scan 4
+Sequencer Zoe scan 36
+Sequencer Zoe scan 44
+Sequencer Zoe send to loader
+Replenisher Jane ready
+Replenisher Jane scan 6
+Replenisher Jane replenish A 0 1 1
+Picker Bob pick 12
+Picker Bob pick 43
+Replenisher Joe ready
+Picker Bob pick 44
+Picker Bob to marshaling
+Sequencer Sara ready
+Loader Janet ready
+Sequencer Sara scan 1
+Sequencer Sara scan 5
+Sequencer Sara scan 11
+Sequencer Sara scan 43
+Sequencer Sara scan 2
+Sequencer Sara scan 6
+Sequencer Sara scan 12
+Sequencer Sara scan 44
+Sequencer Sara send to loader
+Loader Janet scan 29
+Loader Janet scan 3
+Loader Janet scan 35
+Loader Janet scan 43
+Loader Janet scan 30
+Loader Janet scan 4
+Loader Janet scan 36
+Loader Janet scan 44
+Loader Janet send to pending
+Loader Kevin ready
+Loader Kevin scan 1
+Loader Kevin scan 5
+Loader Kevin scan 11
+Loader Kevin scan 43
+Loader Kevin rescan
+Loader Kevin scan 1
+Loader Kevin scan 5
+Loader Kevin scan 11
+Loader Kevin scan 43
+Loader Kevin scan 2
+Loader Kevin scan 10
+Loader Kevin retrieve
+Picker Shawn ready
+Picker Shawn pick 1
+Picker Shawn pick 2
+Picker Shawn pick 5
+Picker Shawn pick 6
+Picker Shawn pick 11
+Picker Shawn pick 12
+Picker Shawn pick 43
+Picker Shawn pick 44
+Picker Shawn to marshaling
+Sequencer Ruby ready
+Sequencer Ruby scan 1
+Sequencer Ruby scan 5
+Sequencer Ruby scan 11
+Sequencer Ruby scan 43
+Sequencer Ruby scan 2
+Sequencer Ruby scan 6
+Sequencer Ruby scan 12
+Sequencer Ruby scan 44
+Sequencer Ruby send to loader
+Loader Kevin ready
+Loader Kevin scan 1
+Loader Kevin scan 5
+Loader Kevin scan 11
+Loader Kevin scan 43
+Loader Kevin scan 2
+Loader Kevin scan 6
+Loader Kevin scan 12
+Loader Kevin scan 44
+Loader Kevin load picking request 1 
+Loader Kelly ready
+Loader Kelly load picking request 2 

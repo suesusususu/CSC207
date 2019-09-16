@@ -1,0 +1,8 @@
+Instruction: Enter the following three commands into command line.
+
+cd project/src
+javac warehouse/Simulation.java
+java warehouse/Simulation
+
+Note: 1. Events list format should follow the 16order.txt file.
+      2. The System will only run using command line, it will not run in Eclipse due to a path error.

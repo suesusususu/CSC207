@@ -1,0 +1,56 @@
+﻿############################################
+Name:Jieying Liu            UTORid:liujieyi
+————————————————————————————————————————————
+1.Organize the discussion of the skeleton of the whole system
+2.Complete InventoryManager and its unit tests
+  InventoryManagerTest.
+3.Complete the Simulation class.
+4.Complete SequencerBarcodeReader and its unit test SequencerBarcodeReaderTest.
+5.Modified the event file given and tested the simulation with it. 
+6.Add necessary methods to enable the system to output the output files.
+
+
+
+
+############################################
+Name:Jingyu Su              UTORid:sujingyu
+————————————————————————————————————————————
+1.Participate in the discussion of group works in designing and debugging.
+2.Create class PickingRequest and its unit test.
+3.Implement all the methods in PickingRequest. 
+4.Create and implement the initial version of class SequencerBarcodeReader with its unit 
+test (which was completely discarded).
+5.Write unit test for 8 methods of WarehouseSystem.
+6.Record the design idea
+
+
+
+
+
+############################################
+Name:Zimu Liu               UTORid:liuzimu1
+————————————————————————————————————————————
+1.Attend group meetings and discuss about the designs and mutual works.
+2.Create and implemented class OrderManager and the unit test for this class.
+3.Create a first-version WarehouseSystem class.
+4.Merge functionalities of OrderManager into Warehouse to let it directly control every orders.
+5.Redesign WarehouseSystem, and create a second version of this class.
+6.Complete the UML for the whole system.
+
+
+
+
+############################################
+Name:Te Sha                      UTORid:shate
+————————————————————————————————————————————
+1.Work together and discuss with the whole team in designs and detailed problems.
+2.Create and implement class PickerBarcodeReader, LoaderBarcodeReader and SequencerBarcodeReader.
+3.Create class Truck and implement the methods.
+4.Modify the class PickerBarcodeReader, LoaderBarcodeReader and Truck and write their unit test.
+5.Write the unit test for 7 methods in class WarehouseSystem.
+6.write an event file to test the simulation, and help debugging the system.
+
+
+
+
+
